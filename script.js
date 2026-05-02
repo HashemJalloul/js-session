@@ -68,6 +68,7 @@
 //   console.log(1);
 // };
 // print();
+// get the value
 let elementIndex = 0;
 
 const newRowButton = document.querySelector(".add-new-button");
